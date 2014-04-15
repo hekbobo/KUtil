@@ -58,7 +58,7 @@ extern "C" {
 		}
 		wchar_t* c_str() const{ return _out;}
 	private:
-		wchar_t* _out;
+		
 		int i;
 	};
 
